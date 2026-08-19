@@ -350,8 +350,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 **Author**: Ariza Wasim (aziraxariza)  
 **Affiliation**: Indira Gandhi Delhi Technical University for Women (IGDTUW)  
-**Supervisor**: Mohammed Javed, Defence Research and Development Organisation (DRDO)  
-**Period**: January - March 2026 (SAG R&D Internship)
 
 For questions or collaboration: [GitHub Issues](https://github.com/aziraxariza/adversarial-ml-robustness/issues)
 
