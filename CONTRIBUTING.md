@@ -53,5 +53,3 @@ pytest tests/ -k fgsm      # Tests matching pattern
 6. Merge!
 
 ---
-
-Thank you for contributing! 🎉
